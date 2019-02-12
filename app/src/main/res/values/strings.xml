@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Firebase PhoneAuth</string>
+    <string name="activity_start">Activity Start</string>
+    <string name="phone_number">Phone number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="a_verification_code_will_be_send_to_this_number">A verification code will be send to this number.</string>
+    <string name="phn_nmbr">Phone Number</string>
+    <string name="login_with_otp">Login With OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_otp_recieved">Enter Otp recieved:</string>
+    <string name="close">Close</string>
+    <string name="verify">Verify</string>
+    <string name="enter_the_otp_below_in_case_we_fail_to_detect_the_sms_automatically">(Enter the otp below in case we fail to detect the sms automatically.)</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="signout">SignOut</string>
+    <string name="_00_60">00:60</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go_to_map">Go to Map</string>
+    <string name="enter_where_to_park">Enter where to park</string>
+    <string name="enter_location">Search your parking space</string>
+    <string name="search_location">Search Location</string>
+    <string name="parkin">Parkin</string>
+    <string name="AppName">Parkin</string>
+    <string name="profile">Profile</string>
+    <string name="my_bookings">My Bookings</string>
+    <string name="rent_your_space">Rent your Space</string>
+    <string name="promo_codes">Promo Codes</string>
+    <string name="help">Help</string>
+    <string name="about_us">About Us</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="arrival">Arrival</string>
+    <string name="today_11_00pm">Today,11:00pm</string>
+    <string name="leaving">Leaving</string>
+    <string name="today_12_00pm">Today,12:00pm</string>
+    <string name="enter_where_to_park_">Enter where to park ..</string>
+</resources>

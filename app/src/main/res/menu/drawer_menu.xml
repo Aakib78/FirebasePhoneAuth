@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+    <item android:id="@+id/profile"
+        android:title="@string/profile"
+        />
+
+    <item android:id="@+id/bookings"
+        android:title="@string/my_bookings" />
+
+    <item android:id="@+id/rentSpace"
+        android:title="@string/rent_your_space" />
+
+    <item android:id="@+id/promoCodes"
+        android:title="@string/promo_codes" />
+
+    </group>
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+    <item android:id="@+id/help"
+        android:title="@string/help" />
+
+    <item android:id="@+id/aboutUs"
+        android:title="@string/about_us" />
+
+    <item android:id="@+id/signOut"
+        android:title="@string/sign_out"/>
+
+    </group>
+</menu>
